@@ -1,5 +1,5 @@
 # Hi, I'm Aryan 👋  
-An Full Stack Engineer
+A Full Stack Engineer
 
 I WRITE CODE.
 
